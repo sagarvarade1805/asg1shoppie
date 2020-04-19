@@ -354,7 +354,7 @@ body {
   margin: 0 auto;
   margin-top: 2rem;
   border-radius: .5rem;
-  background-image: url(/img/photo-1554189097-ffe88e998a2b.jpg); }
+  background-image: url(img/photo-1554189097-ffe88e998a2b.jpg); }
   .form-height .form {
     padding: 2rem; }
     .form-height .form .group {
@@ -491,37 +491,37 @@ html {
 .section-home {
   height: 100vh;
   width: 100%;
-  background-image: url(/img/back-1.jpg);
+  background-image: url(img/back-1.jpg);
   background-size: cover; }
 
 .launching-soon {
   height: 100vh;
   width: 100%;
-  background-image: url(/img/back-2.jpg);
+  background-image: url(img/back-2.jpg);
   background-size: cover; }
 
 .surprise-section {
   height: 100vh;
   width: 100%;
-  background-image: url(/img/back-3.jpg);
+  background-image: url(img/back-3.jpg);
   background-size: cover; }
 
 .most-bought {
   height: 100vh;
   width: 100%;
-  background-image: url(/img/back-4.jpg);
+  background-image: url(img/back-4.jpg);
   background-size: cover; }
 
 .user-reviews {
   height: 100vh;
   width: 100%;
-  background-image: url(/img/back-1.jpg);
+  background-image: url(img/back-1.jpg);
   background-size: cover; }
 
 .submit-reviews {
   height: 100vh;
   width: 100%;
-  background-image: url(/img/back-3.jpg);
+  background-image: url(img/back-3.jpg);
   background-size: cover; }
 
 .footer {
